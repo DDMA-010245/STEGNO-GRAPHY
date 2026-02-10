@@ -1,0 +1,6 @@
+cryptography
+pillow
+numpy
+opencv-python
+pydub
+
